@@ -53,7 +53,7 @@ Because the full-resolution gameplay demonstration video is **142 MB**, it is ho
 1. Install **Unity Hub** and download Unity Editor **`6000.0.55f1`**.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Foraging-Game.git](https://github.com/YOUR_USERNAME/Foraging-Game.git)
+   git clone [https://github.com/samarthwal1104-dev/Foraging-Game.git](https://github.com/samarthwal1104-dev/Foraging-Game.git)
    ```
 3. In Unity Hub, click **Add → Add project from disk** and select the cloned folder (Unity will automatically regenerate `Library/` on first launch).
 4. Open the main scene inside `Assets/` and press **Play** (`WASD` to move, mouse to look, `Ctrl` / `C` to crouch).
