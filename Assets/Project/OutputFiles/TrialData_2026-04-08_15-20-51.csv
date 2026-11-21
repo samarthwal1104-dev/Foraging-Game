@@ -1,0 +1,55 @@
+--- Summary Metrics ---
+Trial Duration,120.00
+Reward Rate,1.792
+Total Positive Score,400
+Total Negative Score,360
+Total Obstacle Collisions,5
+Total Immobility Time,20.20
+Total Red Apples,25
+Total Golden Apples,3
+Total Unique Patches Visited,0
+
+--- Event Log ---
+Timestamp,EventType,ITT,ITD,ARS_Index,CrouchDuration,CrouchStartDistance,CrouchEndDistance,AppleDroneDistance,AppleType,ObstacleCollisionCount,CurrentPatch
+25.21,ObstacleCollision,,,,,,,,,1,
+25.73,ObstacleCollision,,,,,,,,,2,
+29.76,AppleCollected,29.76,79.25,0.730,,,,4.64,Red,,
+29.78,AppleCollected,0.03,0.55,1.000,,,,4.55,Red,,
+30.87,AppleCollected,1.09,1.49,0.417,,,,3.22,Red,,
+35.08,CrouchEvent,,,,1.85,2.66,4.28,,,,
+35.87,AppleCollected,5.00,6.65,0.584,,,,5.12,Red,,
+36.33,AppleCollected,0.45,0.64,0.990,,,,3.58,Red,,
+37.16,CrouchEvent,,,,1.33,4.89,3.23,,,,
+42.71,CrouchEvent,,,,4.21,3.75,18.54,,,,
+46.16,ObstacleCollision,,,,,,,,,3,
+46.23,AppleCollected,9.91,0.77,0.074,,,,33.65,Red,,
+47.19,AppleCollected,0.95,1.08,0.990,,,,34.21,Red,,
+47.49,CrouchEvent,,,,1.09,33.96,36.22,,,,
+49.45,AppleCollected,2.26,5.74,0.878,,,,30.54,Red,,
+49.67,CrouchEvent,,,,0.84,35.03,29.37,,,,
+55.91,CrouchEvent,,,,4.85,13.91,15.11,,,,
+69.72,CrouchEvent,,,,4.77,9.42,14.19,,,,
+74.53,AppleCollected,25.08,50.51,0.738,,,,39.19,Golden,,
+74.55,AppleCollected,0.02,0.50,1.000,,,,39.00,Red,,
+74.58,AppleCollected,0.02,0.92,1.000,,,,39.69,Red,,
+74.66,AppleCollected,0.09,0.44,0.990,,,,40.40,Red,,
+74.69,AppleCollected,0.02,0.58,1.000,,,,40.53,Red,,
+74.79,AppleCollected,0.10,0.48,0.993,,,,41.31,Red,,
+75.01,AppleCollected,0.22,0.49,0.988,,,,42.50,Red,,
+75.78,AppleCollected,0.77,2.45,0.841,,,,46.23,Red,,
+75.78,AppleCollected,0.00,0.00,1.000,,,,46.23,Red,,
+75.92,AppleCollected,0.14,0.50,0.999,,,,46.51,Golden,,
+75.92,AppleCollected,0.00,0.00,1.000,,,,46.51,Golden,,
+76.04,AppleCollected,0.12,0.89,0.987,,,,47.51,Red,,
+76.05,AppleCollected,0.01,0.50,1.000,,,,47.55,Red,,
+76.15,AppleCollected,0.11,0.50,0.998,,,,47.87,Red,,
+76.19,AppleCollected,0.03,0.53,1.000,,,,48.19,Red,,
+77.85,AppleCollected,1.66,4.11,0.775,,,,49.72,Red,,
+77.86,AppleCollected,0.01,0.50,1.000,,,,49.72,Red,,
+77.87,AppleCollected,0.01,0.50,1.000,,,,49.73,Red,,
+77.89,AppleCollected,0.03,1.49,1.000,,,,49.66,Red,,
+77.95,AppleCollected,0.06,1.94,1.000,,,,49.66,Red,,
+88.13,CrouchEvent,,,,5.02,20.92,5.20,,,,
+92.88,ObstacleCollision,,,,,,,,,4,
+93.46,ObstacleCollision,,,,,,,,,5,
+110.90,CrouchEvent,,,,6.70,11.74,9.53,,,,

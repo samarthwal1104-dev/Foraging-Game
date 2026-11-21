@@ -1,0 +1,27 @@
+--- Summary Metrics ---
+Trial Duration,120.00
+Reward Rate,0.000
+Total Positive Score,40
+Total Negative Score,395
+Total Obstacle Collisions,0
+Total Immobility Time,76.58
+Total Red Apples,4
+Total Golden Apples,0
+Total Unique Patches Visited,0
+
+--- Event Log ---
+Timestamp,EventType,ITT,ITD,ARS_Index,CrouchDuration,CrouchStartDistance,CrouchEndDistance,AppleDroneDistance,AppleType,ObstacleCollisionCount,CurrentPatch
+16.81,CrouchEvent,,,,0.07,6.13,5.63,,,,
+36.43,CrouchEvent,,,,4.22,2.94,12.66,,,,
+52.25,CrouchEvent,,,,4.97,11.63,15.91,,,,
+58.54,CrouchEvent,,,,0.59,20.20,19.59,,,,
+59.92,CrouchEvent,,,,1.36,19.48,7.85,,,,
+64.64,CrouchEvent,,,,4.65,7.15,12.85,,,,
+76.65,CrouchEvent,,,,1.14,16.68,11.02,,,,
+83.74,CrouchEvent,,,,6.89,10.45,14.81,,,,
+89.88,CrouchEvent,,,,2.99,8.12,21.77,,,,
+94.18,CrouchEvent,,,,2.98,17.54,19.35,,,,
+101.57,AppleCollected,101.57,84.50,0.772,,,,32.36,Red,,
+101.57,AppleCollected,0.00,0.00,1.000,,,,32.36,Red,,
+101.67,AppleCollected,0.10,0.50,1.000,,,,33.06,Red,,
+101.67,AppleCollected,0.00,0.00,1.000,,,,33.06,Red,,

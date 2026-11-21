@@ -1,0 +1,52 @@
+--- Summary Metrics ---
+Trial Duration,120.00
+Reward Rate,0.000
+Total Positive Score,80
+Total Negative Score,770
+Total Obstacle Collisions,18
+Total Immobility Time,33.74
+Total Red Apples,8
+Total Golden Apples,0
+Total Unique Patches Visited,0
+
+--- Event Log ---
+Timestamp,EventType,ITT,ITD,ARS_Index,CrouchDuration,CrouchStartDistance,CrouchEndDistance,AppleDroneDistance,AppleType,ObstacleCollisionCount,CurrentPatch
+12.51,ObstacleCollision,,,,,,,,,1,
+13.02,ObstacleCollision,,,,,,,,,2,
+29.78,ObstacleCollision,,,,,,,,,3,
+30.30,ObstacleCollision,,,,,,,,,4,
+30.82,ObstacleCollision,,,,,,,,,5,
+31.33,ObstacleCollision,,,,,,,,,6,
+33.55,ObstacleCollision,,,,,,,,,7,
+34.06,ObstacleCollision,,,,,,,,,8,
+34.57,ObstacleCollision,,,,,,,,,9,
+36.02,ObstacleCollision,,,,,,,,,10,
+36.54,ObstacleCollision,,,,,,,,,11,
+37.82,CrouchEvent,,,,0.40,5.30,4.15,,,,
+59.08,ObstacleCollision,,,,,,,,,12,
+59.60,ObstacleCollision,,,,,,,,,13,
+60.11,ObstacleCollision,,,,,,,,,14,
+63.17,CrouchEvent,,,,0.77,2.95,2.95,,,,
+65.39,CrouchEvent,,,,1.03,3.27,2.98,,,,
+67.80,CrouchEvent,,,,0.51,2.98,2.98,,,,
+68.34,ObstacleCollision,,,,,,,,,15,
+68.85,ObstacleCollision,,,,,,,,,16,
+69.37,ObstacleCollision,,,,,,,,,17,
+69.89,ObstacleCollision,,,,,,,,,18,
+78.67,CrouchEvent,,,,6.97,2.19,28.47,,,,
+80.34,CrouchEvent,,,,0.48,27.18,27.11,,,,
+92.51,AppleCollected,92.51,149.47,0.664,,,,3.68,Red,,
+92.64,AppleCollected,0.14,0.49,0.999,,,,3.94,Red,,
+92.64,AppleCollected,0.00,0.00,1.000,,,,3.94,Red,,
+92.83,AppleCollected,0.19,0.49,1.000,,,,3.92,Red,,
+92.83,AppleCollected,0.00,0.00,1.000,,,,3.92,Red,,
+96.50,CrouchEvent,,,,2.45,2.98,4.13,,,,
+99.71,CrouchEvent,,,,2.79,6.17,24.73,,,,
+113.16,AppleCollected,20.32,0.46,0.055,,,,4.84,Red,,
+113.49,CrouchEvent,,,,1.96,2.97,4.66,,,,
+115.22,CrouchEvent,,,,1.34,4.62,4.02,,,,
+117.10,AppleCollected,3.94,2.69,0.889,,,,3.29,Red,,
+117.10,AppleCollected,0.00,0.00,1.000,,,,3.29,Red,,
+117.39,CrouchEvent,,,,1.01,3.00,2.92,,,,
+118.42,CrouchEvent,,,,0.30,3.00,3.00,,,,
+119.46,CrouchEvent,,,,0.50,3.00,3.00,,,,

@@ -1,0 +1,71 @@
+--- Summary Metrics ---
+Trial Duration,120.00
+Reward Rate,0.000
+Total Positive Score,140
+Total Negative Score,1005
+Total Obstacle Collisions,44
+Total Immobility Time,15.82
+Total Red Apples,4
+Total Golden Apples,2
+Total Unique Patches Visited,0
+
+--- Event Log ---
+Timestamp,EventType,ITT,ITD,ARS_Index,CrouchDuration,CrouchStartDistance,CrouchEndDistance,AppleDroneDistance,AppleType,ObstacleCollisionCount,CurrentPatch
+9.31,ObstacleCollision,,,,,,,,,1,
+9.98,CrouchEvent,,,,0.14,47.09,46.18,,,,
+25.16,ObstacleCollision,,,,,,,,,2,
+25.67,ObstacleCollision,,,,,,,,,3,
+26.19,ObstacleCollision,,,,,,,,,4,
+26.70,ObstacleCollision,,,,,,,,,5,
+27.22,ObstacleCollision,,,,,,,,,6,
+27.80,ObstacleCollision,,,,,,,,,7,
+28.31,ObstacleCollision,,,,,,,,,8,
+28.82,ObstacleCollision,,,,,,,,,9,
+29.34,ObstacleCollision,,,,,,,,,10,
+29.86,ObstacleCollision,,,,,,,,,11,
+30.31,CrouchEvent,,,,0.34,3.08,3.10,,,,
+30.38,ObstacleCollision,,,,,,,,,12,
+30.89,ObstacleCollision,,,,,,,,,13,
+31.41,ObstacleCollision,,,,,,,,,14,
+32.79,CrouchEvent,,,,0.56,4.12,3.96,,,,
+35.03,CrouchEvent,,,,0.30,3.83,3.14,,,,
+36.62,CrouchEvent,,,,0.38,3.85,3.18,,,,
+37.44,ObstacleCollision,,,,,,,,,15,
+37.95,ObstacleCollision,,,,,,,,,16,
+38.48,ObstacleCollision,,,,,,,,,17,
+39.00,ObstacleCollision,,,,,,,,,18,
+39.52,ObstacleCollision,,,,,,,,,19,
+40.92,ObstacleCollision,,,,,,,,,20,
+43.52,ObstacleCollision,,,,,,,,,21,
+44.04,ObstacleCollision,,,,,,,,,22,
+45.32,ObstacleCollision,,,,,,,,,23,
+45.83,ObstacleCollision,,,,,,,,,24,
+60.91,ObstacleCollision,,,,,,,,,25,
+61.44,ObstacleCollision,,,,,,,,,26,
+61.96,ObstacleCollision,,,,,,,,,27,
+62.48,ObstacleCollision,,,,,,,,,28,
+63.01,ObstacleCollision,,,,,,,,,29,
+64.16,CrouchEvent,,,,0.65,3.02,2.99,,,,
+72.54,AppleCollected,72.54,84.21,0.434,,,,3.98,Red,,
+72.56,AppleCollected,0.01,0.50,1.000,,,,3.87,Golden,,
+72.59,AppleCollected,0.03,0.49,1.000,,,,3.80,Red,,
+72.60,AppleCollected,0.01,1.48,1.000,,,,4.03,Golden,,
+86.14,AppleCollected,13.54,5.41,0.163,,,,3.81,Red,,
+86.14,AppleCollected,0.00,0.00,1.000,,,,3.81,Red,,
+93.77,CrouchEvent,,,,0.26,3.52,3.19,,,,
+94.57,ObstacleCollision,,,,,,,,,30,
+95.08,ObstacleCollision,,,,,,,,,31,
+102.24,ObstacleCollision,,,,,,,,,32,
+102.76,ObstacleCollision,,,,,,,,,33,
+103.28,ObstacleCollision,,,,,,,,,34,
+103.80,ObstacleCollision,,,,,,,,,35,
+104.89,CrouchEvent,,,,0.40,2.29,2.29,,,,
+105.04,ObstacleCollision,,,,,,,,,36,
+107.84,ObstacleCollision,,,,,,,,,37,
+116.72,ObstacleCollision,,,,,,,,,38,
+117.24,ObstacleCollision,,,,,,,,,39,
+117.75,ObstacleCollision,,,,,,,,,40,
+118.27,ObstacleCollision,,,,,,,,,41,
+118.79,ObstacleCollision,,,,,,,,,42,
+119.31,ObstacleCollision,,,,,,,,,43,
+119.83,ObstacleCollision,,,,,,,,,44,
